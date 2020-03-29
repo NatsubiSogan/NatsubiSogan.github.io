@@ -1,2 +1,2 @@
 # NatsubiSogan's blog
-![Site URL]https://NatsubiSogan.github.io
+https://NatsubiSogan.github.io
